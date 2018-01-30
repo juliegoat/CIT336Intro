@@ -1,0 +1,36 @@
+body {
+	background-image: url("seaweedpirate.jpg");
+	text-align: center;
+	background-size: 100%;
+}
+#content {
+	width: 80%;
+	margin: auto;
+	padding: 5%;
+	background-color: rgba(255,255,255,0.75);
+	border-radius: 25px;
+	text-align: left;
+	font-family: 'Geneva';
+}
+h2 {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+p {
+	padding-left: 10px;
+}
+#headshot {
+	opacity: 1.0;
+	text-align: center;
+}
+#headshot img {
+	border-radius: 100px;
+	height: 200px;
+	width: 200px;
+}
+#aboutme img {
+	height: 50%;
+	width: 50%;
+}
+#douglas {
+	text-align: center;
+}
